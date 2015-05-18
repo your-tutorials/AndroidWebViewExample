@@ -1,5 +1,10 @@
 .gradle
+gradle
+gradlew
+gradlew.bat
 /local.properties
+.idea
+/.idea/
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
